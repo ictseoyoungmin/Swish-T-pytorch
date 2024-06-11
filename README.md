@@ -11,6 +11,7 @@ In this work, we propose the Swish-T family, which enhances the Swish activation
 - **Swish-T<sub><strong>B</strong></sub>**: Reintroduces the $\beta$ parameter, providing better performance metrics by allowing fine-tuning of the activation's shape.
 
 - **Swish-T<sub><strong>C</strong></sub>**: Effectively controls the bias using the $\beta$ parameter, achieving stable performance across different tasks.
+
 ![Swish-T_Cproperty](figs/plot_SiwshT_C.png)
 
 ## arXiv 
