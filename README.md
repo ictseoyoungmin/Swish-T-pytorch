@@ -1,6 +1,8 @@
 # Swish-T Family Implementation in PyTorch
 
-A PyTorch Implementation of Swish-T family ( Swish-T, Swish-T<sub><strong>A</strong></sub>, Swish-T<sub><strong>B</strong></sub>, Swish-T<sub><strong>C</strong></sub> ).
+A PyTorch Implementation of Swish-T : Enhancing Swish Activation with Tanh Bias for Improved Neural Network Performance.
+
+Swish-T family : ( Swish-T, Swish-T<sub><strong>A</strong></sub>, Swish-T<sub><strong>B</strong></sub>, Swish-T<sub><strong>C</strong></sub> )
 
 ## Introduction
 
