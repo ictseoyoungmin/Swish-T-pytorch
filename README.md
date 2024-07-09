@@ -51,8 +51,17 @@ The table shows the mean Top-1 accuracy and standard deviation of 5 runs.
 
 ## arXiv 
 
-soon
+https://arxiv.org/abs/2407.01012
 
-## citation
-
-soon
+## Citation
+```
+@misc{seo2024swishtenhancingswish,
+      title={Swish-T : Enhancing Swish Activation with Tanh Bias for Improved Neural Network Performance}, 
+      author={Youngmin Seo and Jinha Kim and Unsang Park},
+      year={2024},
+      eprint={2407.01012},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.01012}, 
+}
+```
